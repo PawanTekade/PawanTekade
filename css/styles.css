@@ -1,0 +1,72 @@
+
+body {
+  font-size: 15px;
+background: Light;
+font-weight: 400;
+}
+
+.main {
+  padding :40px 0 20px 0;
+  font-weight: 200;
+}
+ .pre {
+   font-weight: 600;
+ }
+.div01{
+  background-color: white;
+height: 200px;
+width: 300px;
+border-top: solid 8px  hsla(0, 78%, 62%);
+border-right: solid grey 1px;
+border-left: solid grey 1px;
+border-bottom: solid grey 1px;
+border-radius: 10px;
+box-shadow: 10px 5px 5px grey;
+
+}
+.div02{
+background-color: white;
+height: 200px;
+width: 300px;
+bottom: 100px;
+position: absolute;
+left: 180px;
+border-radius: 10px;
+border-top: solid 8px hsla(180, 62%, 55%);
+border-right: solid grey 1px;
+border-left: solid grey 1px;
+border-bottom: solid grey 1px;
+box-shadow: 10px 5px 5px grey;
+}
+.div03{
+background-color: white;
+height: 200px;
+width: 300px;
+border-radius: 10px;
+border-top: solid 8px hsla(34, 97%, 64%);
+margin-top: 50px;
+border-right solid grey 1px;
+border-left: solid grey 1px;
+border-bottom: solid grey 1px;
+
+box-shadow: 10px 5px 5px grey;
+}
+.div04{
+background-color: white;
+height: 200px;
+width: 300px;
+position: absolute;
+right: 180px;
+bottom: 100px;
+border-radius: 10px;
+border-top: solid 8px hsla(212, 86%, 64%);
+border-right: solid grey 1px;
+border-left: solid grey 1px;
+border-bottom: solid grey 1px;
+box-shadow: 10px 5px 5px grey;
+}
+
+.icon{
+float: right;
+bottom: o;
+}
